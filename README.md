@@ -1,1 +1,1 @@
-# uptimebot
+# Uptime Bot by ByQush
